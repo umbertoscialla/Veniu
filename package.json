@@ -1,0 +1,35 @@
+json
+
+{
+
+  "name": "veniu",
+
+  "version": "1.0.0",
+
+  "description": "Progetto React Veniu Caserta",
+
+  "main": "src/main.jsx",
+
+  "type": "module",
+
+  "scripts": {
+
+    "start": "vite"
+
+  },
+
+  "dependencies": {
+
+    "react": "^18.2.0",
+
+    "react-dom": "^18.2.0"
+
+  },
+
+  "devDependencies": {
+
+    "vite": "^5.0.0"
+
+  }
+
+}
